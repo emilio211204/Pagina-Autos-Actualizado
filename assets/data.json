@@ -1,51 +1,21 @@
 {
   "productos": [
     {
-      "id": "5obapje3f",
-      "producto": "Ferrari Monza SP1",
-      "precio": 750,
-      "cantidad": 1
-    },
-    {
-      "id": "xneicvap6",
+      "id": "h1ybeeidf",
       "producto": "Mercedes Amg",
       "precio": 350,
       "cantidad": 1
     },
     {
-      "id": "rmsddb54y",
+      "id": "azf6ne2hx",
       "producto": "Hyundai Palisade",
       "precio": 850,
       "cantidad": 1
     },
     {
-      "id": "0qky892su",
-      "producto": "Hyundai Palisade",
-      "precio": 850,
-      "cantidad": 1
-    },
-    {
-      "id": "lptt1isdl",
-      "producto": "Mercedes Amg",
-      "precio": 350,
-      "cantidad": 1
-    },
-    {
-      "id": "rnvj9o10b",
-      "producto": "Ferrari Monza SP1",
-      "precio": 750,
-      "cantidad": 1
-    },
-    {
-      "id": "ma1c87e2z",
-      "producto": "Toyota RAV4",
-      "precio": 250,
-      "cantidad": 1
-    },
-    {
-      "id": "u9lmea0tv",
-      "producto": "Mercedes Amg",
-      "precio": 350,
+      "id": "m72zwzgl2",
+      "producto": "Audi Gt-tron",
+      "precio": 600,
       "cantidad": 1
     }
   ]
