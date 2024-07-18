@@ -1,0 +1,60 @@
+/* Estilo general de la página */
+body {
+    font-family: 'Georgia', serif;
+    background-color: #f4f1ea;
+    color: #5a4a3b;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilo de los encabezados */
+h1, h2 {
+    color: #2e2e2c;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 20px;
+}
+
+/* Estilo del texto */
+p {
+    font-size: 18px;
+    line-height: 1.6;
+    margin: 20px;
+}
+
+/* Clase para el lema */
+.lema {
+    font-style: italic;
+    margin: 20px;
+}
+
+/* Estilo de las imágenes */
+img {
+    display: block;
+    margin: 20px auto;
+    border: 5px solid #d4c3a3;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Estilo de los contenedores de texto */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Fondo con textura */
+body::before {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: url('path/to/vintage-texture.jpg') repeat;
+    opacity: 0.2;
+    z-index: -1;
+}
